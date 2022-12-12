@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mukeshkumar9787
-- 👀 I’m interested in ... DATA SCIENCE
-- 🌱 I’m currently learning ... DATA SCIENCE
-- 💞️ I’m looking to collaborate on ... 
+- 👀 I’m interested in ... Full Stack development
+- 🌱 I’m currently learning ... React Js
 - 📫 How to reach me ... www.linkedin.com/in/mukeshkumar9787
 
 <!---
