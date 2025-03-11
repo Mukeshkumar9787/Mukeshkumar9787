@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Mukeshkumar9787
-- 👀 I’m interested in ... Full Stack development
-- 🌱 I’m currently learning ... React Js
+An Full Stack Developer with knowledge in React.js, Node.js, MySQL, Python, Django, and Data Structures and Algorithms is skilled in full-stack web development.
 - 📫 How to reach me ... www.linkedin.com/in/mukeshkumar9787
 
 <!---
