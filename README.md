@@ -1,8 +1,8 @@
 # Hi 👋 I'm Mukesh Kumar
 
-## Backend Engineer | Node.js | TypeScript | PostgreSQL | Redis | React.js
+## Software Engineer | Node.js | TypeScript | PostgreSQL | Redis | React.js | AWS
 
-Backend Engineer with **4+ years of experience** building scalable web applications using **Node.js, TypeScript, PostgreSQL, Redis, Express.js, and React.js**.
+Software Engineer with **4+ years of experience** building scalable web applications using **Node.js, TypeScript, PostgreSQL, Redis, Express.js, and React.js**.
 
 My primary expertise is **backend engineering**, where I enjoy designing scalable APIs, optimizing databases, building distributed systems, and solving performance challenges. I also have hands-on experience with **React.js** and **Next.js**, enabling me to deliver complete end-to-end features when required.
 
